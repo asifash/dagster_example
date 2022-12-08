@@ -1,0 +1,3 @@
+run_retries:
+  enabled: true
+  max_retries: 3 # Sets a default for all jobs. 0 if not set
